@@ -68,7 +68,7 @@ p {
     font-weight: normal;
 }
   
-div.firstbox{
+div.staff{
     background-color: #1A2930;
     height: 650px;
     width: 300px;
@@ -77,7 +77,7 @@ div.firstbox{
     bottom: 429px;
 }
   
-p.firstbox {
+p.staff {
     padding: 20px;
     font-size: 50px;
     position: relative;
@@ -85,7 +85,7 @@ p.firstbox {
     color: grey;
 }
   
-#topgrid {
+#top {
     width: 400px;
     height: 300px;
     display:grid;
@@ -151,7 +151,7 @@ img.pictures {
     width: 460px;
 }
   
-div.secondbox {
+div.design {
     background-color: #f7ce3e;
     height: 650px;
     width: 300px;
@@ -162,7 +162,7 @@ div.secondbox {
    
 }
   
-p.secondbox {
+p.design {
     padding: 20px;
     font-size: 40px;
     position: relative;
@@ -170,7 +170,7 @@ p.secondbox {
     
 }
   
-#bottomgrid {
+#bottom {
     width: 400px;
     height: 300px;
     display: grid;
@@ -262,7 +262,7 @@ nav {
       
     }
     
-div.firstbox {
+div.staff {
     height: 343px;
     width: 150px;
     position: absolute;
@@ -270,7 +270,7 @@ div.firstbox {
       
     }
     
-p.firstbox {
+p.staff {
     padding: 10px;
     font-size: 30px;
     position: relative;
@@ -284,7 +284,7 @@ img.pictures {
     
     }
     
-#topgrid {
+#top {
     display: grid;
     grid-template-columns: 40px 0px;
     grid-row: auto auto;
@@ -361,7 +361,7 @@ p.lightblack2 {
       
     }
     
-#bottomgrid {
+#bottom {
     display: grid;
     grid-template-columns: 40px 0px;
     grid-row: auto auto;
@@ -394,7 +394,7 @@ p.grey2 {
       
     }
     
-div.secondbox {
+div.design {
     position: relative;
     top: 15px;
     left: 547px;
@@ -403,7 +403,7 @@ div.secondbox {
 
     }   
     
-p.secondbox {
+p.design {
     font-size: 25px;
     position: absolute;
     top: 80px;
